@@ -18,5 +18,3 @@ openedImage = Image.open("images/image.PNG")
 text = tess.image_to_string(openedImage)
 print(text)
 
-
-
